@@ -3,7 +3,7 @@ import roundaddicon from "../assets/roundadd.png";
 const HomeMarketTrend = () => {
   return (
     <>
-      <div id="marketrend" className="w-full mt-6 lg:absolute lg:top-[185%] xl:top-[200%] 2xl:xl:top-[240%]">
+      <div id="marketrend" className="w-full mt-6 lg:w-[80%] lg:absolute lg:top-[185%] xl:top-[190%] 2xl:top-[215%]">
         <div>
           {/* header starts here */}
           <div>
