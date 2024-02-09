@@ -1,4 +1,3 @@
-import Footer from "../components/Footer";
 import HomeHeader from "../components/HomeHeader";
 import HomeMarketTrend from "../components/HomeMarketTrend";
 import HomeStockList from "../components/HomeStockList";
